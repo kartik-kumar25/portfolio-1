@@ -1,0 +1,21 @@
+.description-1:hover{
+    background: rgba(61, 82, 61, 0.665);
+    color: white;
+}
+.in-short-list h2:hover{
+    transform: translateY(-8px) scale(1.02);
+}
+.projects-show-button:hover,
+.my-projects-container div:hover,
+.ai-projects-container div:hover{
+    border: 2px solid rgb(201, 162, 23);
+    transform: translateY(-5px) scale(1.04);
+}
+.projects-show-button:active,
+.my-projects-container div:active,
+.ai-projects-container div:active{
+    transform: translateY(1px);
+}
+.social-icon:hover{
+    transform: translateY(-5px) scale(1.2);
+}
