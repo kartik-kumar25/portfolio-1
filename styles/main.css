@@ -194,6 +194,9 @@ hr{
     cursor: pointer;
     transition: transform 0.25s;
 }
+.projects-show-button span{
+    color: rgb(190, 147, 90);
+}
 .my-projects-container{
     /* display: grid; */
     row-gap: 20px;
